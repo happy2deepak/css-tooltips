@@ -1,3 +1,8 @@
+/*!
+ * CSS-tooltips v1.0 (https://github.com/happy2deepak/css-tooltips)
+ * Copyright (c) 2017 Deepak Yadav. (http://www.deepaky.com)
+ * Licensed under MIT (https://github.com/happy2deepak/css-tooltips/blob/master/LICENSE)
+ */
 .css-tooltip {
   display: inline-block;
   border-bottom: 2px dotted #333;
@@ -166,3 +171,5 @@
 .css-tooltip[data-pos="top center"]:hover:after, .css-tooltip[data-pos="bottom center"]:hover:after {
   transform: rotate(45deg) !important;
 }
+
+/*# sourceMappingURL=css-tooltip.css.map */
